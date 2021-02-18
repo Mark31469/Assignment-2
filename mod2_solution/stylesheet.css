@@ -36,7 +36,11 @@ p {
   margin-top: 25px;
   padding: 10px;
 }
-  .chicken {
+
+.container {
+  margin: 10px;
+}
+.chicken {
   background-color: rgb(213,152,152);
 }
 
